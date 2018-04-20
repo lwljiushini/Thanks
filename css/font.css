@@ -1,0 +1,25 @@
+/*自定义字体*/
+@font-face {
+	font-family: lwl1;
+  	src: url('../fonts/simkai.ttf') format('woff');/* chrome, firefox */
+}
+@font-face {
+	font-family: lwl2;
+  	src: url('../fonts/fzlxtfw.ttf') format('woff');/* chrome, firefox */
+}
+@font-face {
+	font-family: lwl3;
+  	src: url('../fonts/fzlxtjw.ttf') format('woff');/* chrome, firefox */
+}
+@font-face {
+	font-family: lwl4;
+  	src: url('../fonts/FZMWFont.ttf') format('woff');/* chrome, firefox */
+}
+@font-face {
+	font-family: lwl5;
+  	src: url('../fonts/FZYBXSFW.TTF') format('woff');/* chrome, firefox */
+}
+@font-face {
+	font-family: lwl6;
+  	src: url('../fonts/FZTJLSJW.TTF') format('woff');/* chrome, firefox */
+}
